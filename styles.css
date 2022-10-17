@@ -96,3 +96,9 @@ a {
 	padding: 10px;
 	width: 250px;
 }
+
+@media screen and (max-width: 768px) {
+  section {
+    padding: 50px 20px;
+  }
+}
