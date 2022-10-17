@@ -44,6 +44,7 @@ body {
 }
 
 section {
+	-webkit-backdrop-filter: blur(13.5px);
 	backdrop-filter: blur(13.5px);
 	border-radius: 50px;
 	position: relative;
